@@ -1,0 +1,5 @@
+com\rom\bean\Ibatis.class
+com\rom\dao\DaoImpl.class
+com\rom\dao\TestDao.class
+com\rom\dao\Dao.class
+com\rom\controller\TestController.class
